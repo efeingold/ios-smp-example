@@ -28,7 +28,7 @@ LICENSE: MIT
 
 This app showcases how to use the SessionM SDK to authenticate a user in the SessionM Platform.
 
-API docs: https://mmc.sessionm.com/docs/mmc-sdk/#identity4
+API docs: https://mmc.sessionm.com/docs/mmc-sdk/#identity-api
 
 On the "Choose Authentication Type" view, you can choose to authenticate a user with a SessionM Platform email and password, with a SessionM Platform authentication token, or with credentials from a third-party authentication provider such as Facebook or Google. Custom OAuth credentials can be set in the Auth/Info.plist file by using the 'SessionMOAuthClientID', 'SessionMOAuthAuthorizationEndpoint', 'SessionMOAuthTokenEndpoint' and 'SessionMOAuthRedirectURI' keys.
 
